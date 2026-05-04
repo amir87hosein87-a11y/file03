@@ -7,9 +7,12 @@ https://avasam.ir
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
-1 - [godot-docs-html-stable](https://github.com/keepfiless/file03/tree/main/downloads/godot-docs-html-stable)
-2 - [rust-1.95.0-x86_64-pc-windows-msvc](https://github.com/keepfiless/file03/tree/main/downloads/rust-1.95.0-x86_64-pc-windows-msvc)
+1 - [filezilla_3.69.0_arm64](https://github.com/keepfiless/file03/tree/main/downloads/filezilla_3.69.0_arm64)
+2 - [godot-docs-html-stable](https://github.com/keepfiless/file03/tree/main/downloads/godot-docs-html-stable)
+3 - [rust-1.95.0-x86_64-pc-windows-msvc](https://github.com/keepfiless/file03/tree/main/downloads/rust-1.95.0-x86_64-pc-windows-msvc)
 
 ---
